@@ -17,5 +17,5 @@ Si vous rencontrez des problèmes lors de l'installation de l'environnement : co
 ## Utilisation de l'application
 
 ```python
-py -m scraper
+py -m utils
 ```
